@@ -4,3 +4,6 @@ This repository is for Team 2's ENEL 645 final project. In this project the team
 
 Please use the below outline to navigate through files in this repository.
 ## ENEL 645 Final Project Files:
+The model files are stored in Models_folder
+The Generalized dataset taken from the internet is stored in the General_Validation_Dataset folder. These images are not the Kaggle dataset. 
+The Kaggle dataset was too large to put into this repo please refer to the final report for the URL ro the Kaggle dataset.
