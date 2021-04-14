@@ -8,7 +8,7 @@ The notebook files for the tomato, bell pepper and potato models are stored in M
 The Generalized dataset which contains images from the internet is stored in the General_Validation_Dataset folder. These images are not the Kaggle dataset. 
 The Kaggle dataset was too large to put into this repository. Please use the URL to the Kaggle PlantVillage Dataset to view the images used for this project: https://kaggle.com/emmarex/plantdisease
 
-*Plant Disease Detection Project File:*
+*Plant Disease Detection Project Files:*
 * General_Validation_Datasets
     * Pepper__bell___Bacterial_spot
         * .jpg images...
