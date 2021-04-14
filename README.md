@@ -16,29 +16,29 @@ Plant Disease Detection Project
         * .jpg images...
     * Potato___Early_blight
         * .jpg images...
-    └── Potato___Late_blight
-        └── .jpg images...
-    └── Potato___healthy
-        └── .jpg images...
-    └── Tomato_Leaf_Mold
-        └── .jpg images...
-    └── Tomato_Target_Spot
-        └── .jpg images...
-    └── Tomato__Tomato_mosaic_virus
-        └── .jpg images...
-    └── Tomato_healthy
-        └── .jpg images...
-└── Models_folder
-    └── MasterFile_BellPepper.ipynb
-    └── MasterFile_Potato.ipynb
-    └── MasterFile_Tomato.ipynb
-    └── SSL_notebooks
-        └── Master_SSL_Potato.ipynb
-        └── SSL_MasterFile_Tomato.ipynb
-    └── Saved model weights
-        └── Bell_Pepper_Colab.h5
-        └── Potato_Colab.h5
-        └── Tomato_Colab.h5
+    * Potato___Late_blight
+        * .jpg images...
+    * Potato___healthy
+        * .jpg images...
+    * Tomato_Leaf_Mold
+        * .jpg images...
+    * Tomato_Target_Spot
+        * .jpg images...
+    * Tomato__Tomato_mosaic_virus
+        * .jpg images...
+    * Tomato_healthy
+        * .jpg images...
+* Models_folder
+    * MasterFile_BellPepper.ipynb
+    * MasterFile_Potato.ipynb
+    * MasterFile_Tomato.ipynb
+    * SSL_notebooks
+        * Master_SSL_Potato.ipynb
+        * SSL_MasterFile_Tomato.ipynb
+    * Saved model weights
+        * Bell_Pepper_Colab.h5
+        * Potato_Colab.h5
+        * Tomato_Colab.h5
              
                     
                    
