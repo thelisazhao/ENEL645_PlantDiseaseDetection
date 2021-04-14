@@ -2,13 +2,13 @@
 
 This repository is for Team 2's ENEL 645 final project. In this project the team utilized existing datasets to develop a plant health detection algorithm with deep learning. The deep learning architecture is TensorFlow, written with Python code, while the data will be displayed with Keras. The dataset used was obtained from the Kaggle PlantVillage datset.
 
-Please use the below outline to navigate through files in this repository.
+Please use the outline below to navigate through files in this repository.
 ## ENEL 645 Final Project Files
 The notebook files for the tomato, bell pepper and potato models are stored in Models_folder.
 The Generalized dataset which contains images from the internet is stored in the General_Validation_Dataset folder. These images are not the Kaggle dataset. 
 The Kaggle dataset was too large to put into this repository. Please use the URL to the Kaggle PlantVillage Dataset to view the images used for this project: https://kaggle.com/emmarex/plantdisease
 
-*Plant Disease Detection Project:*
+*Plant Disease Detection Project File:*
 * General_Validation_Datasets
     * Pepper__bell___Bacterial_spot
         * .jpg images...
