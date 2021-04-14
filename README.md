@@ -9,8 +9,8 @@ The Generalized dataset which contains images from the internet is stored in the
 The Kaggle dataset was too large to put into this repository. Please use the URL to the Kaggle PlantVillage Dataset to view the images used for this project: https://kaggle.com/emmarex/plantdisease
 
 Plant Disease Detection Project
-└── General_Validation_Datasets
-    └── Pepper__bell___Bacterial_spot
+* General_Validation_Datasets
+    * Pepper__bell___Bacterial_spot
         └── .jpg images...
     ├── Pepper__bell___healthy
         └── .jpg images...
