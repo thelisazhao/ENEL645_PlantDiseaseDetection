@@ -39,6 +39,33 @@ The Kaggle dataset was too large to put into this repository. Please use the URL
         * Bell_Pepper_Colab.h5
         * Potato_Colab.h5
         * Tomato_Colab.h5
+* TALC_Folder
+    * f1_model
+        * train_bellpepper_f1.py
+        * train_bellpepper_f1_venv.slurm
+        * train_potato_f1.py
+        * train_potato_f1_venv.slurm
+        * train_tomato_f1.py
+        * train_tomato_f1_venv.slurm
+    * results
+        * bellpepper.out
+        * bellpepperf1.out
+        * potato.out
+        * potatof1.out
+        * tomato.out
+        * tomatof1.out
+    * ssl_model
+        * train_potato_ssl.py
+        * train_potato_ssl_venv.slurm
+        * train_tomato_ssl.py
+        * train_tomato_ssl_venv.slurm
+    * standard_model
+        * train_bellpepper.py
+        * train_bellpepper_venv.slurm
+        * train_potato.py
+        * train_potato_venv.slurm
+        * train_tomato.py
+        * train_tomato_venv.slurm
              
                     
                    
